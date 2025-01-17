@@ -1,9 +1,9 @@
 {
-  "name":"POPKID",
-  "description":"Best whatsapp bot developed by POPKID",
+  "name":"MUSTAFA",
+  "description":"Best whatsapp bot developed by MUSTAFFA",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/LpK2MK7/1728892250720.jpg",
-  "repository":"https://github.com/Popkiddevs/NORMAL-BOT-MD",
+  "repository":"https://github.com/Mustaffamkm/MUSTAFFAMK-",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ᴘᴏᴘᴋɪᴅ ᴍᴅ",
+      "value":"MUSTAFFA",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ℙ𝕆ℙ 𝕂𝕀𝔻"
+    "value": "MUSTAFFA"
   },
     "NUMERO_OWNER":
   {

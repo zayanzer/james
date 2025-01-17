@@ -24,13 +24,13 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/Popkiddevs/NORMAL-BOT-MD/fork)
+[`FORK`](https://github.com/MustaffaMk/NORMAL-BOT-MD/fork)
 
 
  
 
 
-[`PAIRING CODE`](https://popkid-sessions-generator.onrender.com/)
+[`PAIRING CODE`](https://mustaffamk-sessions-generator.onrender.com/)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

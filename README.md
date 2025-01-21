@@ -8,13 +8,13 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
+  <a href="https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T">
   
  
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MUSTAFFA-MD+MADE+IN+KENYA+🎖️🥇" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MUSTAFFA-MD+MADE+IN+KENYA+🎖️🥇A+MULTIDEVICE+BOT+POWERED+BY+MUSTAFFA+MK👌" alt="Typing SVG" /></a>
 
 
 
@@ -24,7 +24,7 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/MustaffaMk/NORMAL-BOT-MD/fork)
+[`FORK`](https://github.com/Mustaffamkm/NORMAL-BOT-MD/fork)
 
 
  

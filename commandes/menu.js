@@ -35,13 +35,14 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭──────────────────❂
 ┊❂╭───*𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐌𝐃*────❂
-┊✺┊ *𝐔𝐒𝐄𝐑* : ${s.MUSTAFFA}
+┊✺┊ *𝐔𝐒𝐄𝐑* : ${s.USER_NAME}
 ┊✺┊ *𝐌𝐎𝐃𝐄* : ${private}
-     *PREFIX* : UNDEFINED 
-     *TOTALUSERS* :250
+     *PREFIX* : ${s.PREFIXE}
+     *TOTALUSERS* : ${250} 
 ┊✺╰───────────────❂
 ┊✺┊ *𝐓𝐈𝐌𝐄 ZONE* : ${18:59:01}  
 ┊✺┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+     *COMMANDS* : ${200}
 ┊❂╰───────────────❂
 ╰──────────────────❂ \n\n`;
  
@@ -53,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
         menuMsg += `*╭────❂* *${cat}* *❂*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*┊🕸️* ${cmd}`;
+*┊{🕷️}* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════❂* \n`

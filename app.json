@@ -1,6 +1,6 @@
 {
-  "name":"MUSTAFA",
-  "description":"Best whatsapp bot developed by MUSTAFFA",
+  "name":"🕷️MUSTAFFA MK🕷️",
+  "description":"Best whatsapp bot and a multideviced machine👌developed by🕸️ MUSTAFFA MK🕸️",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/YtQQdJZ/IMG-20250118-WA0052.jpg",
   "repository":"https://github.com/Mustaffamkm/MUSTAFFAMK-",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MUSTAFFA",
+      "value":"MUSTAFFA MK",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MUSTAFFA"
+    "value": "MUSTAFFA Mk"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111385747"
+    "value": "254758755663"
   },
     "WARN_COUNT":
   {

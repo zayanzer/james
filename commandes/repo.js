@@ -37,20 +37,20 @@ const date = moment().format('DD/MM/YYYY');
       *MUSTAFFA 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Mustaffamkm/NORMAL-BOT-MD
+> https://github.com/Mustaffamkm/MUSTAFFAMK-
 
 *MUSTAFFA 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
 > https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
 ⁠
 ╭───────────────────❒
 │😂 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❣️ *DEV1* : *ᴘᴏᴘᴋɪᴅ*
-│⚽ *DEV2* : *ᴘᴏᴘᴋɪᴅ*
+│❣️ *DEV1* : *MUSTAFFAMKᴅ*
+│⚽ *DEV2* : *MUSTAFFAMK*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *ᴘᴏᴘᴋɪᴅ ᴛᴇᴄʜ*
+     *MUSTAFFA TECH*
 
 ❒────────────────────❒`;
 

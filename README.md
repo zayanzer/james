@@ -14,7 +14,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MUSTAFFA-MD+MADE+IN+KENYA+🥳🕸️👌" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+MUSTAFFA-MD+MADEINKENYA+🥳🕸️👌" alt="Typing SVG" /></a>
 
 
 

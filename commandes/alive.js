@@ -71,10 +71,10 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("ATI ALIVE MZEE😂") ; return};
+        if(!superUser) { repondre("USKUE FALA BANA🙆😒😂") ; return};
 
-      await   repondre("SI ATA WE UNAJUA POPKID MD HAIEZI LALA NO MATTER WHAT");
-         repondre("EBU TINGIZA KICHWA :)")
+      await   repondre("TANGU LINI UNDER BLUE SKY A LEGIT MUSTAFFA MD IKAZIMA,, DON'T BE A FOOL");
+         repondre("USITUMIE KICHWA KAMA SHAMBA YA NYWELE:)")
      }
  } else {
 
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *POPKID MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *MUSTAFFA MD BOT* is alive just like you gee. ')
 
 }
     });

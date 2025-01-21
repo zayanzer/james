@@ -35,11 +35,14 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
 ╭──────────────────❂
 ┊❂╭───*𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐌𝐃*────❂
-┊✺┊ *𝐔𝐒𝐄𝐑* : ${s.OWNER_NAME}
-┊✺┊ *𝐌𝐎𝐃𝐄* : ${mode}
+┊✺┊ *𝐔𝐒𝐄𝐑* : ${s.MUSTAFFA}
+┊✺┊ *𝐌𝐎𝐃𝐄* : ${private}
+     *PREFIX* : UNDEFINED 
+     *TOTALUSERS* :250
 ┊✺╰───────────────❂
-┊✺┊ *𝐓𝐈𝐌𝐄* : ${temps}  
+┊✺┊ *𝐓𝐈𝐌𝐄 ZONE* : ${18:59:01}  
 ┊✺┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+     *UPTIME* :22h, 30m,58s 
 ┊❂╰───────────────❂
 ╰──────────────────❂ \n\n`;
  
@@ -51,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
         menuMsg += `*╭────❂* *${cat}* *❂*`;
         for (const cmd of coms[cat]) {
             menuMsg += `  
-*┊🍑* ${cmd}`;
+*┊🕸️* ${cmd}`;
         }
         menuMsg += `
 *╰═════════════❂* \n`
@@ -61,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *—————✺✺✺✺—————*
 
-  *𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀 𝐓𝐄𝐂𝐇*                                         
+  *𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀 MD*                                         
 *╰═════════════❂*
 `;
 
@@ -79,7 +82,10 @@ const date = moment().format('DD/MM/YYYY');
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*popkid*" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "*mustaffa*
+            
+            
+            *" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

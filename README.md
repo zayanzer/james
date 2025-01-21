@@ -30,7 +30,7 @@
  
 
 
-[`PAIRING CODE`](https://mustaffamk-sessions-generator.onrender.com/)
+[`PAIRING CODE`](https://enzo-md-sessions-generator-h1es.onrender.com/pair)
  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

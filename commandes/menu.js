@@ -42,7 +42,6 @@ const date = moment().format('DD/MM/YYYY');
 ┊✺╰───────────────❂
 ┊✺┊ *𝐓𝐈𝐌𝐄 ZONE* : ${18:59:01}  
 ┊✺┊ *𝐑𝐀𝐌* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-     *UPTIME* :22h, 30m,58s 
 ┊❂╰───────────────❂
 ╰──────────────────❂ \n\n`;
  

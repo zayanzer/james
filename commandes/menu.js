@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧〈 *MESTAFFA BOT* 〉 ✧───◆
+╭────✧〈 *MUSTAFFA BOT* 〉 ✧───◆
 ┴╭─────────────☹︎
 𓄂│▸ *Date* : ${date}
 𓄂│▸ *User* : ${s.OWNER_NAME}

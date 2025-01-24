@@ -73,8 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("USKUE FALA BANA🙆😒😂") ; return};
 
-      await   repondre("TANGU LINI UNDER BLUE SKY A LEGIT MUSTAFFA MD IKAZIMA,, DON'T BE A FOOL");
-         repondre("USITUMIE KICHWA KAMA SHAMBA YA NYWELE:)")
+      await   repondre("TANGU LINI A LEGIT 🕷️MUSTAFFA MD🕷️ IKAZIMA,, DON'T BE A FOOL");
+         repondre("YOO DON'T DISTURB ME 🤦AM ALWAYS ACTIVE :)")
      }
  } else {
 

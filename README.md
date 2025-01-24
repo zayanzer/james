@@ -24,7 +24,7 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/Mustaffamkm/NORMAL-BOT-MD/fork)
+[`FORK`](https://github.com/Mustaffamkm/MUSTAFFAMK-/fork)
 
 
  

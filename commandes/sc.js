@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *MUSTAFFA 𝗠𝗗 𝗜𝗡𝗙𝗢* 
 ❒───────────────────❒
 *𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
-> https://github.com/Mustaffamkm/NORMAL-BOT-MD
+> https://github.com/Mustaffamkm/MUSTAFFAMK-
 
 *𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
 > https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
@@ -123,16 +123,16 @@ const date = moment().format('DD/MM/YYYY');
    *BMW MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/Mustaffamkm/MUSTAFFAMK-
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *Mustaffa Mk*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     

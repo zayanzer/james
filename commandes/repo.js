@@ -43,9 +43,9 @@ const date = moment().format('DD/MM/YYYY');
 > https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
 ⁠
 ╭───────────────────❒
-│😂 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❣️ *DEV1* : *MUSTAFFAMKᴅ*
-│⚽ *DEV2* : *MUSTAFFAMK*
+│👌 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│🔥 *DEV1* : *MUSTAFFAMKᴅ*
+│🕷️ *DEV2* : *MUSTAFFAMK*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     

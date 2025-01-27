@@ -1,5 +1,5 @@
 {
-  "name": "⭕  𝐗𝐁𝐎𝐓 ⭕",
+  "name": "®️MUSTAFFA 𝐗𝐁𝐎𝐓 ®️",
   "description": "This BOT was developed by Beltah Tech 👻.",
   "keywords": [
     "bot",
@@ -111,12 +111,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "mustaffa"
+      "value": "MUSTAFFA MK"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
       "required": false,
-      "value": "254111385747"
+      "value": "254758755663"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",

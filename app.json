@@ -58,8 +58,8 @@
       "required": false
     },
     "ANTILINK" : {
-      "description" : "detect links and remove link senders to group", 
-      "value" : "yes", 
+      "description" : "detect links and remove link senders to group(type yes to activate or no to deactivate ; don't write in capital letters)", 
+      "value" : "no", 
       "required" : false
      }, 
     "ANTICALL": {

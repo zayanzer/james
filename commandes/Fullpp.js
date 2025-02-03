@@ -3,7 +3,7 @@ const { generateProfilePicture } = require("axios");
 const { S_WHATSAPP_NET } = require('@whiskeysockets/baileys');
 const fs = require("fs");
 
-keith({
+zokou({
   nomCom: "fullpp",
   aliases: ["updatepp", "ppfull"],
   reaction: '⚔️',

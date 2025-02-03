@@ -33,7 +33,7 @@ zokou({
 
   // External URLs for references
   const murl = 'https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T';
-  const img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
+  const img = 'https://i.ibb.co/YtQQdJZ/IMG-20250118-WA0052.jpg';
 
   // Audio message object
   const audioMessage = {

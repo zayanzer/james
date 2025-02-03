@@ -1,5 +1,5 @@
 const { zokou } = require("../framework/zokou");
-const { generateProfilePicture } = require("../framework/dl/Function");
+const { generateProfilePicture } = require("axios");
 const { S_WHATSAPP_NET } = require('@whiskeysockets/baileys');
 const fs = require("fs");
 

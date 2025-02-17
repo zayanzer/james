@@ -1361,12 +1361,12 @@ zk.ev.on('group-participants.update', async (group) => {
  │  ᴘʀᴇғɪx : [ ${prefixe} ]
  │  ᴍᴏᴅᴇ : ${md}
  │  ᴘʟᴜɢɪɴs : 250
- │  ᴘʟᴀᴛғᴏʀᴍ : popkid
- │  ᴅᴇᴠ : mustaffa_254 🇰🇪
+ │  ᴘʟᴀᴛғᴏʀᴍ : JAMES
+ │  ᴅᴇᴠ : JAMES🇰🇪
  ╰─────────────────◆
 
 sᴜᴘᴘᴏʀᴛ ʙʏ sᴜʙsᴄʀɪʙɪɴɢ
-youtube.com/@mustaffa_254` ;
+youtube.com/@rapstar6033` ;
                 await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
             }

@@ -1,17 +1,17 @@
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://files.catbox.moe/xw348m.jpg" height="90" width="100%">
 
-## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
+##  `🩸⃟༑༑𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔 `🩸⃟༑༑
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𒆜+∰+🎼+𝄞+≣+⫸+★)](https://git.io/typing-svg) 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.ibb.co/bgXPHSrS/IMG-20250205-WA0077.jpg" width="500" height="400" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝗝𝗔𝗠𝗘𝗦+𝗠𝗗+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗝𝗔𝗠𝗘𝗦𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
+
+<p align="centre"><img src="https://files.catbox.moe/eg2cgb.jpg" width="500" height="400" />
 
 
 

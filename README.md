@@ -26,17 +26,17 @@
 
 <
 
- <p align="center"><img src="https://profile-counter.glitch.me/{MUSTAFFA-MD}/count.svg" alt="Mustaffa :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{JAMES-MD}/count.svg" alt="James :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
 
 
 
 
 
 
-## HOW TO GET MUSTAFFA MD BOT
+## HOW TO GET  `🩸⃟༑༑JAMES MD BOT
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
 
   

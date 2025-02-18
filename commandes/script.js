@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *MUSTAFFA MD IMPORTANT INFO* 
+     *JAMES MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/jtechde/james
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mustaffa mk*
-│❒⁠⁠⁠⁠ *DEV2* : *Mustaffa Mk*
+│❒⁠⁠⁠⁠ *DEV1* : *james*
+│❒⁠⁠⁠⁠ *DEV2* : *james*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Mustaffa Tech*
+     *james Tech*
 
 ❒────────────────────❒`;
 
@@ -69,7 +69,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Mustaffamd*, déveloper Mustaffa Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *jamesmd*, déveloper james Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -121,24 +121,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *MUSTAFFA MD IMPORTANT INFO* 
+   *JAMES MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/jtechde/james
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/jtechde/james
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Mustaffa Mk*
+│❒⁠⁠⁠⁠ *DEV* : *james tech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     𝙟𝙖𝙢𝙚𝙨 𝙩𝙚𝙘𝙝 𝙨𝙘𝙞𝙚𝙣𝙘𝙚
 
 ❒────────────────────❒`;
 

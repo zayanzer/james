@@ -1,12 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg) 
-## 𝗧𝗛𝗘 𝗢𝗡𝗘 𝗢𝗙 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗕𝗢𝗧𝗦
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg)
 
-<img src="https://files.catbox.moe/xw348m.jpg" height="60" width="100%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=🩸⃟+✚+✚+✚+✚+✚+✚+✚+✚+✚+✚+✜+✜+✚+✚+✚+✚)](https://git.io/typing-svg) 
 
-##  𝐓𝐇𝐄 𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 𝐁𝐎𝐓 𝐈𝐒 `🩸⃟༑༑𝐒𝐀𝐅𝐄 𝐎𝐍`🩸⃟༑༑ 𝐇𝐄𝐑𝐎𝐊𝐔 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=black&center=true&vCenter=true&width=815&height=60&lines=𒆜+∰+🎼+𝄞+≣+⫸+★)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=𒆜+∰+🎼+𝄞+≣+⫸+★)](https://git.io/typing-svg) 
 
 
 
@@ -23,7 +20,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒`🩸⃟༑༑ 𝐅𝐎𝐑 `🩸⃟༑༑JAMES `🩸⃟༑༑𝐌𝐃 𝐁𝐎𝐓 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`🩸⃟༑༑+𝗙𝗢𝗥+𝗝À𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg) 
 
 
 <

@@ -1,6 +1,6 @@
 
 
-<img src="https://files.catbox.moe/xw348m.jpg" height="90" width="100%">
+<img src="https://files.catbox.moe/xw348m.jpg" height="60" width="100%">
 
 ##  `🩸⃟༑༑𝐓𝐇𝐄 𝐁𝐎𝐓 `🩸⃟༑༑𝐈𝐒 `🩸⃟༑༑𝐒𝐀𝐅𝐄 `🩸⃟༑༑𝐎𝐍`🩸⃟༑༑ 𝐇𝐄𝐑𝐎𝐊𝐔 `🩸⃟༑༑
 
@@ -9,9 +9,9 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝗝𝗔𝗠𝗘𝗦+𝗠𝗗+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗝𝗔𝗠𝗘𝗦𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧`🩸⃟༑༑+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://files.catbox.moe/eg2cgb.jpg" width="500" height="400" />
+<p align="centre"><img src="https://files.catbox.moe/eg2cgb.jpg" width="600" height="200" />
 
 
 

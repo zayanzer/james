@@ -19,7 +19,7 @@ const{repondre,ms,dev,superUser}=com;
 
   const {exec}=require("child_process")
 
-    repondre("MUSTAFFA-MD bot Restarting 🕷️");
+    repondre("JAMES-MD bot Restarting 💀");
 
   exec("pm2 restart all");
   

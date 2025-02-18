@@ -23,7 +23,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner. or Mustaffa Tech 👻*");
+    return repondre("*This command is restricted to the bot owner. or JAMES 💀*");
   }
 
   // Validate user input and respond accordingly
@@ -65,7 +65,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Beltah Tech 👻*");
+    return repondre("*This command is restricted to the bot owner or 💀JAMES Tech 💀*");
   }
 
   // Validate user input and respond accordingly
@@ -106,7 +106,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Beltah Tech 👻*");
+    return repondre("*This command is restricted to the bot owner or JAMES Tech 👻*");
   }
 
   // Validate user input and respond accordingly
@@ -350,7 +350,7 @@ zokou({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Beltah Tech 👻*");
+    return repondre("*This command is restricted to the bot owner or JAMES Tech 👻*");
   }
 
   // Validate user input and respond accordingly
@@ -778,7 +778,7 @@ zokou({
     { nom: "CHAT_BOT", choix: ['on', 'off'] }
   ];
 
-  let settingsMenu = "╭──────༺♡༻──────╮\n  MUSTAFFA-XBOT Settings\n╰──────༺♡༻──────╯\n\n";
+  let settingsMenu = "╭──────༺♡༻──────╮\n  JAMES-XBOT Settings\n╰──────༺♡༻──────╯\n\n";
   settingsOptions.forEach((option, index) => {
     settingsMenu += `${index + 1}- *${option.nom}*\n`;
   });
@@ -798,7 +798,7 @@ zokou({
   });
 
   const selectedOption = settingsOptions[userChoice.message.extendedTextMessage.text - 1];
-  let settingsDetail = `╭──────༺♡༻──────╮\n  MUSTAFFA-XBOT settings\n╰──────༺♡༻──────╯\n\n`;
+  let settingsDetail = `╭──────༺♡༻──────╮\n  JANES-XBOT settings\n╰──────༺♡༻──────╯\n\n`;
   settingsDetail += `*Variable Name* : ${selectedOption.nom}\n`;
   settingsDetail += `*Description* : ${getDescriptionFromEnv(selectedOption.nom)}\n\n`;
   settingsDetail += "┌────── ⋆⋅☆⋅⋆ ──────┐\n\n";

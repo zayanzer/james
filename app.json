@@ -77,14 +77,14 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"MUSTAFFA_MD",
+    "value":"JAMES_MD",
     "required":false
 
     },
        "BOT_MENU_LINKS" : 
    {
     "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://i.ibb.co/YtQQdJZ/IMG-20250118-WA0052.jpg",
+    "value":"https://files.catbox.moe/eg2cgb.jpg",
     "required":false
        
      },
@@ -117,14 +117,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "mustaffamk"
+    "value": "james"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254758755663"
+    "value": "254785016388"
   },
     "WARN_COUNT":
   {

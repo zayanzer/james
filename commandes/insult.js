@@ -28,10 +28,10 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "ᴍᴜsᴛᴀғғᴀ ᴛᴇᴄʜ 👻",
+        title: "JAMES MD",
         body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-        thumbnailUrl: "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-        sourceUrl: "https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T",
+        thumbnailUrl: "https://files.catbox.moe/eg2cgb.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",
         mediaType: 1,
         renderLargerThumbnail: true,
       },

@@ -70,10 +70,10 @@ keith({ nomCom: "logo", categorie: "Search", reaction: "✋" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🌟 𝐌𝐔𝐒𝐓𝐀𝐅𝐅𝐀-𝐌𝐃 ✨",
-        body: "Regards, Popkid",
-        thumbnailUrl: "https://i.imgur.com/v9gJCSD.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l",
+        title: "💀 𝐉𝐀𝐌𝐄𝐒-𝐌𝐃 💀",
+        body: "Regards, james",
+        thumbnailUrl: "https://files.catbox.moe/eg2cgb.jpg",
+        sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",
         mediaType: 1,
         renderLargerThumbnail: true,
       },

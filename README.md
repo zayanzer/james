@@ -4,12 +4,12 @@
 
 ##  `🩸⃟༑༑𝐓𝐇𝐄 𝐁𝐎𝐓 `🩸⃟༑༑𝐈𝐒 `🩸⃟༑༑𝐒𝐀𝐅𝐄 `🩸⃟༑༑𝐎𝐍`🩸⃟༑༑ 𝐇𝐄𝐑𝐎𝐊𝐔 `🩸⃟༑༑
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𒆜+∰+🎼+𝄞+≣+⫸+★)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=yellow&center=true&vCenter=true&width=815&height=60&lines=𒆜+∰+🎼+𝄞+≣+⫸+★)](https://git.io/typing-svg) 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧`🩸⃟༑༑+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=815&height=60&lines=𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧`🩸⃟༑༑+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦𝗧𝗘𝗖𝗛)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/eg2cgb.jpg" width="600" height="200" />
 
@@ -48,7 +48,7 @@
 
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡`🩸⃟༑༑+𝗜𝗗+𝗦𝗜𝗧𝗘`🩸⃟༑༑+𝗜𝗦+𝗛𝗘𝗥𝗘`🩸⃟༑༑)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡`🩸⃟༑༑+𝗜𝗗+𝗦𝗜𝗧𝗘`🩸⃟༑༑+𝗜𝗦+𝗛𝗘𝗥𝗘`🩸⃟༑༑)](https://git.io/typing-svg)
  
 
 

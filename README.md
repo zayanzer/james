@@ -1,4 +1,4 @@
-## WELCOME TO JAMES MD WHATSAPP BOT DEVELOPED BY DEV JAMES
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg) 
 ## 𝗧𝗛𝗘 𝗢𝗡𝗘 𝗢𝗙 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗕𝗢𝗧𝗦
 

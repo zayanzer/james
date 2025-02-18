@@ -41,7 +41,7 @@
 
   
    
-   <a href="https://github.com/Mustaffamkm/MUSTAFFAMK-/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/jtechde/james/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -52,7 +52,7 @@
  
 
 
-  <a href="https://mustaffa-sessions-generator.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://mustaffa-sessions-generator.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -67,20 +67,20 @@
 
    🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=red&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Mustaffamkm/MUSTAFFAMK-"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/jtechde/james"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
+## FINAL`🩸⃟༑༑ REMARKS ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Mustaffamkm&repo=MUSTAFFAMK-&show_owner=true&theme=dark)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=dark)
 
 
 
@@ -92,10 +92,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT MUSTAFFA TECH HERE
+## CONTACT`🩸⃟༑༑ JAMES TECH HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/Mustaffamkm/MUSTAFFAMK-"><img title="CONTACT-MUSTAFFA" src="https://img.shields.io/badge/CONTACT-MUSTAFFA-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+   <a href="https://github.com/jtechde/james"><img title="CONTACT-JAMES" src="https://img.shields.io/badge/CONTACT-JAMES-h?color=red&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

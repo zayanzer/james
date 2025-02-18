@@ -230,14 +230,14 @@ keith({
     const response = await axios.get("https://nekos.life/api/v2/fact");
     const data = response.data;
     const factMessage = `
-┏━━━━ *MUSTAFFA-FACT* ━━━━━◆                     
+┏━━━━ *JAMES-FACT* ━━━━━◆                     
 ┃
 ┃   *◇* ${data.fact} 
 ┃
-┃   *◇* Regards *POPKID MD*
+┃   *◇* Regards *JAMES MD*
 ┃      
  ╭────────────────◆
- │ *_Powered by popkid._*
+ │ *_Powered by JAMES._*
  ╰─────────────────◆
     `;
 
@@ -276,10 +276,10 @@ keith({
 ┃  
 ┃   *◇* *AUTHOR:* ${data.quote.author}
 ┃      
-┃    *◇*  *regards popkid MD*
+┃    *◇*  *regards JAMES MD*
 ┃    
 ╭────────────────◆
-│ *_Powered by popkid._*
+│ *_Powered by JAMES._*
 ╰─────────────────◆
     `;
 

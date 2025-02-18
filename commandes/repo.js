@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *MUSTAFFA 𝐈𝐍𝐅𝐎* 
+      *𝐉𝐀𝐌𝐄𝐒 𝐈𝐍𝐅𝐎* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Mustaffamkm/MUSTAFFAMK-
+> https://github.com/jtechde/james
 
-*MUSTAFFA 𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
-> https://whatsapp.com/channel/0029VawBbI40AgWKACOjdm1T
+*𝐂𝐇𝐀𝐍𝐍𝐄𝐋*
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 ⁠
 ╭───────────────────❒
 │👌 *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🔥 *DEV1* : *MUSTAFFAMKᴅ*
-│🕷️ *DEV2* : *MUSTAFFAMK*
+│🔥 *DEV1* : *JAMES*
+│🕷️ *DEV2* : *JAMESTECH*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *MUSTAFFA TECH*
+     *JAMES TECH*
 
 ❒────────────────────❒`;
 
@@ -58,7 +58,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Anywaymd*, déveloper Anyway Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *jamesmd*, déveloper jamea Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -68,7 +68,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Anywaymd*, déveloper Anyway Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *jamesmd*, déveloper James Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

@@ -3,7 +3,7 @@ const axios =require("axios");
 
 
 zokou({ nomCom: "cast",
-        reaction: "🎁",
+        reaction: "🥵",
         alias: ["bc"],
         desc: "Bot makes a broadcast in all groups",
         fromMe: true,
@@ -23,9 +23,9 @@ zokou({ nomCom: "cast",
         } second`);
         for (let i of anu) {
             await sleep(1500);
-            let txt = `*--❗${tlang().title} Broadcast❗--*\n\n *😇Author:* ${citel.pushName}\n\n${text}`;
+            let txt = `*--💞${tlang().title} Broadcast💞--*\n\n *🌹Author:* ${citel.pushName}\n\n${text}`;
             let buttonMessaged = {
-                image: log0,
+                image: "https://files.catbox.moe/eg2cgb.jpg,"
                 caption: txt,
                 footer: citel.pushName,
                 headerType: 1,
@@ -35,7 +35,7 @@ zokou({ nomCom: "cast",
                     externalAdReply: {
                         title: 'Broadcast by ' + citel.pushName,
                         body: tlang().title,
-                        thumbnail: log0,
+                        thumbnail: "https://files.catbox.moe/eg2cgb.jpg,"
                         mediaUrl: '',
                         mediaType: 2,
                         sourceUrl: gurl,

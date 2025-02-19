@@ -1186,7 +1186,7 @@ zk.ev.on('group-participants.update', async (group) => {
             }
 
             msg += `You might want to read the group Description to avoid getting removed...
-> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴜsᴛᴀғғᴀ ʜᴀᴄᴋɪɴɢ ᴛᴇᴀᴍ..`;
+> powered by💀 james md💀..`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -1358,11 +1358,11 @@ zk.ev.on('group-participants.update', async (group) => {
                 let cmsg =` 💀𝙹𝙰𝙼𝙴𝚂 𝙼𝙳💀 ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
 
  ╭────────────────◆
- │  ᴘʀᴇғɪx : [ ${prefixe} ]
- │  ᴍᴏᴅᴇ : ${md}
- │  ᴘʟᴜɢɪɴs : 250
- │  ᴘʟᴀᴛғᴏʀᴍ : popkid
- │  ᴅᴇᴠ : 𝙹𝙰𝙼𝙴𝚂💀
+ │  💀ᴘʀᴇғɪx 💀: [ ${prefixe} ]
+ │  💀ᴍᴏᴅᴇ 💀: ${md}
+ │ 💀 ᴘʟᴜɢɪɴs 💀: 250
+ │  💀ᴘʟᴀᴛғᴏʀᴍ💀 : 𝐣𝐚𝐦𝐞𝐬
+ │  💀ᴅᴇᴠ 💀: 𝙹𝙰𝙼𝙴𝚂💀
  ╰─────────────────◆
 
 sᴜᴘᴘᴏʀᴛ ʙʏ 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶

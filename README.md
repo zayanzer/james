@@ -87,7 +87,7 @@
 
 ## FINAL`🩸⃟༑༑ REMARKS `🩸⃟༑༑ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=light)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=dark)
 
 
 

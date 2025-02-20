@@ -41,7 +41,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞🩸⃟+𝗔𝗡𝗗`🩸⃟༑༑+𝗦𝗧𝗔𝗥`🩸⃟༑༑+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
-<p align="centre"><img src="https://files.catbox.moe/pkk957.jpg" width="600" height="200" />
+<p align="centre"><img src="https://files.catbox.moe/d0gz2m.jpg" width="600" height="200" />
 
   
    

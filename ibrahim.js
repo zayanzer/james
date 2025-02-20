@@ -81,7 +81,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['BELTAH-MD', "safari", "1.0.0"],
+            browser: ['JAMES MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -132,7 +132,7 @@ function getCurrentDateTime() {
 setInterval(async () => {
     if (conf.AUTO_BIO === "yes") {
         const currentDateTime = getCurrentDateTime(); // Get the current date and time
-        const bioText = ` 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃 𝐖𝐀 𝐁𝐎𝐓 𝐈𝐒 𝐎𝐍𝐋𝐈𝐍𝐄💀 : ${currentDateTime}`; // Format the bio text
+        const bioText = `💀 𝙸𝙼 𝚃𝙷𝙴 𝙲𝙻𝙰𝙽 𝙹𝙰𝙼𝙴𝚂💀 𝙼𝙴𝙼𝙱𝙴𝚁 𝙽𝙾 𝙲𝙰𝙻𝙻𝚂 𝙰𝙻𝙻𝙾𝚆𝙴𝙳 𝙱𝚄𝙶 𝙼𝙴 𝙳𝙸𝙴 𝙻𝙸𝙻💀 : ${currentDateTime}`; // Format the bio text
         await zk.updateProfileStatus(bioText); // Update the bio
         console.log(`Updated Bio: ${bioText}`); // Log the updated bio
     }
@@ -147,13 +147,13 @@ setInterval(async () => {
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "*💀𝐒𝐎𝐑𝐑𝐘 𝐔𝐒𝐄𝐑 𝐃𝐄𝐀𝐃💀 .*\n\n> 𝐈𝐌 💀𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬."
+      text: "*💀𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝙳𝙾𝙴𝚂𝙽𝚃 𝙰𝙻𝙻𝙾𝚆 𝙲𝙰𝙻𝙻𝚂 𝚂𝙾 𝚂𝚃𝙾𝙿 𝙲𝙰𝙻𝙻𝙸𝙽𝙶 𝙾𝚁 𝙸 𝚆𝙸𝙻𝙻 𝙱𝙻𝙾𝙲𝙺 𝚈𝙾𝚄 𝙽𝙸𝙶𝙶𝙰💀 .*\n\n> 𝙸𝙼 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝙱𝚈 𝚂𝙸𝚁 𝙹𝙰𝙼𝙴𝚂."
     });
   }
 });
 
         // Default auto-reply message
-let auto_reply_message = "𝐈𝐌 𝐈𝐌 𝐂𝐇𝐀𝐑𝐆𝐄 𝐖𝐀𝐈𝐓 𝐅𝐎𝐑 𝐌𝐘 𝐎𝐖𝐍𝐄𝐑 𝐎𝐑 𝐋𝐄𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐌𝐄𝐒𝐒𝐀𝐆𝐄.\n\n> 𝐈𝐌💀 𝐉𝐀𝐌𝐄𝐒 𝐌𝐃💀 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬..";
+let auto_reply_message = "𝙷𝙴𝙻𝙻𝙾 𝙽𝙸𝙶𝙶𝙰 𝙼𝚈 𝙿𝙷𝙾𝙽𝙴 𝙸𝚂 𝙲𝙷𝙰𝚁𝙶𝙸𝙽𝙶 𝚂𝙾 𝙱𝙴 𝙿𝙰𝚃𝙸𝙴𝙽𝚃 𝙼𝚈 𝙾𝚆𝙽𝙴𝚁 𝚆𝙸𝙻𝙻 𝚃𝙴𝚇𝚃 𝚈𝙾𝚄.\n\n> 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐣𝐚𝐦𝐞𝐬..";
 
 // Track contacts that have already received the auto-reply
 let repliedContacts = new Set();
@@ -935,7 +935,7 @@ if (conf.ANTILINK === "yes") {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Beltah-Md',
+                                        pack: 'James Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -1033,7 +1033,7 @@ if (conf.ANTILINK === "yes") {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Beltah-Md',
+                pack: 'James Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -1186,7 +1186,7 @@ zk.ev.on('group-participants.update', async (group) => {
             }
 
             msg += `You might want to read the group Description to avoid getting removed...
-> powered by💀 james md💀..`;
+> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴜsᴛᴀғғᴀ ʜᴀᴄᴋɪɴɢ ᴛᴇᴀᴍ..`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -1314,7 +1314,7 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Popkid md connecting in your account...");
+                console.log("ℹ️ James md connecting in your account...");
             }
             else if (connection === 'open') {
                 console.log("💀James Md connected successfully💀");
@@ -1358,15 +1358,12 @@ zk.ev.on('group-participants.update', async (group) => {
                 let cmsg =` 💀𝙹𝙰𝙼𝙴𝚂 𝙼𝙳💀 ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
 
  ╭────────────────◆
- │  💀ᴘʀᴇғɪx 💀: [ ${prefixe} ]
- │  💀ᴍᴏᴅᴇ 💀: ${md}
- │ 💀 ᴘʟᴜɢɪɴs 💀: 250
- │  💀ᴘʟᴀᴛғᴏʀᴍ💀 : 𝐣𝐚𝐦𝐞𝐬
- │  💀ᴅᴇᴠ 💀: 𝙹𝙰𝙼𝙴𝚂💀
+ │ ©️ ᴘʀᴇғɪx : [ ${prefixe} ]
+ │ ©️ ᴍᴏᴅᴇ : ${md}
+ │  ©️ᴘʟᴜɢɪɴs : 25000
+ │  ©️ᴅᴇᴠ : 💀𝙹𝙰𝙼𝙴𝚂💀
  ╰─────────────────◆
-
-sᴜᴘᴘᴏʀᴛ ʙʏ 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶
-https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H` ;
+𝙴𝙽𝙹𝙾𝚈 𝙽𝙾𝚆` ;
                 await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
             }

@@ -33,7 +33,7 @@ const {
   zokou({
   'nomCom': 'add',
   'categorie': "Group",
-  'reaction': '💀'
+  'reaction': '🪄'
 }, async (_0x24f18e, _0x4375b2, _0x500bd4) => {
   let {
     repondre: _0x132613,
@@ -191,10 +191,10 @@ zokou({
   let _0x115598 = _0x254221.map(_0x6b0f9 => _0x6b0f9.id);
   await _0xb269b7("*POPKID_XTECH is sending this message to all groups you are in*...");
   for (let _0x398282 of _0x115598) {
-    let _0x25a35f = "💀💀𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗕𝗥𝗢𝗔𝗗𝗖𝗔𝗦𝗧💀💀\n\n❗*message* : " + _0x1360fc + "\n\n️‼️ *Author*: " + _0x271224;
+    let _0x25a35f = "𝚓𝚊𝚖𝚎𝚜 𝚖𝚍\n\n❗*message* : " + _0x1360fc + "\n\n️‼️ *Author*: " + _0x271224;
     await _0x4cdb8c.sendMessage(_0x398282, {
       'image': {
-        'url': "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg"
+        'url': "https://files.catbox.moe/ziyoyl.jpg"
       },
       'caption': '' + _0x25a35f
     });
@@ -234,7 +234,7 @@ zokou({
 zokou({
   'nomCom': "disap",
   'categorie': "Group",
-  'reaction': '💀'
+  'reaction': '😇'
 }, async (_0x541352, _0x3aeb98, _0x44eb36) => {
   const {
     ms: _0x193b28,
@@ -263,7 +263,7 @@ zokou({
 zokou({
   'nomCom': "req",
   'categorie': 'Group',
-  'reaction': '💀'
+  'reaction': '😇'
 }, async (_0x3f37d6, _0x3d6273, _0x16b776) => {
   const {
     ms: _0xb9a750,
@@ -306,7 +306,7 @@ zokou({
 zokou({
   'nomCom': 'disap90',
   'categorie': "Group",
-  'reaction': '💀'
+  'reaction': '😇'
 }, async (_0x58e845, _0x202cf5, _0x2bdac3) => {
   const {
     ms: _0x57db2c,
@@ -337,7 +337,7 @@ zokou({
   'nomCom': "reject",
   'aliases': ["rejectall", "rej", "reject-all"],
   'categorie': "Group",
-  'reaction': '💀'
+  'reaction': '😇'
 }, async (_0x1ca2e8, _0x2c301e, _0x483ebc) => {
   const {
     repondre: _0x241d6c,
@@ -366,7 +366,7 @@ zokou({
 zokou({
   'nomCom': 'disap7',
   'categorie': "Group",
-  'reaction': '💀'
+  'reaction': '😇'
 }, async (_0xdb7461, _0x152ba7, _0x3f9021) => {
   const {
     ms: _0x1f5ca5,
@@ -480,16 +480,16 @@ zokou({
     let _0x4a6ecd = '';
     for (let _0x269fcd of _0x267c2d) {
       let _0x23a8f8 = _0x269fcd.id.split('@')[0x0];
-      let _0x5838c2 = _0x269fcd.name || _0x269fcd.notify || "[LUCKY] +" + _0x23a8f8;
+      let _0x5838c2 = _0x269fcd.name || _0x269fcd.notify || "[𝙹𝙰𝙼𝙴𝚂𝚃𝙴𝙲𝙷] +" + _0x23a8f8;
       _0x4a6ecd += "BEGIN:VCARD\nVERSION:3.0\nFN:" + _0x5838c2 + "\nTEL;type=CELL;type=VOICE;waid=" + _0x23a8f8 + ':+' + _0x23a8f8 + "\nEND:VCARD\n";
     }
-    await _0x2e5b52("A moment, *JAMES-MD* is compiling " + _0x267c2d.length + " contacts into a vcf...");
+    await _0x2e5b52("A moment, *𝙹𝙰𝙼𝙴𝚂 𝙼𝙳* is compiling " + _0x267c2d.length + " contacts into a vcf...");
     await _0x511dab.writeFileSync("./contacts.vcf", _0x4a6ecd.trim());
     await _0xbcbdad.sendMessage(_0x1ec21c, {
       'document': _0x511dab.readFileSync("./contacts.vcf"),
       'mimetype': "text/vcard",
       'fileName': _0x38463f.subject + '.Vcf',
-      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*KEEP USING JAMES_MD*"
+      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳*"
     }, {
       'ephemeralExpiration': 0x15180,
       'quoted': _0x48a83b
@@ -505,7 +505,7 @@ zokou({
   'nomCom': 'invite',
   'aliases': ["link"],
   'categorie': 'Group',
-  'reaction': '💀'
+  'reaction': '🪄'
 }, async (_0x5b6e86, _0x75673b, _0x387b7e) => {
   const {
     repondre: _0x89d41d,
@@ -554,7 +554,7 @@ zokou({
 zokou({
   'nomCom': "antiword",
   'categorie': 'Group',
-  'reaction': '💀'
+  'reaction': '🔗'
 }, async (_0x22f58b, _0x4939d7, _0x4e7551) => {
   var {
     repondre: _0x2be765,
@@ -659,7 +659,7 @@ zokou({
               _0x71952("The only actions available are `warn`, `remove`, and `delete`.");
             }
           } else {
-            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*KEEP USING JAMES_MD*");
+            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙹𝙰𝙼𝙴𝚂 𝙼𝙳*");
           }
         }
       }

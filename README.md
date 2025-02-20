@@ -102,5 +102,8 @@
 
    <a href="https://github.com/jtechde/james"><img title="CONTACT-JAMES" src="https://img.shields.io/badge/CONTACT-JAMES-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
 
+   <p align="centre"><img src="https://files.catbox.moe/ziyoyl.jpg" width="800" height="400" />
+
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 

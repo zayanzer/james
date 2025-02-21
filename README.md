@@ -82,6 +82,9 @@
 <a
 href="https://www.facebook.com/profile.php?id=61565000497815"><img title="CHAT FACEBOOK" src="https://img.shields.io/badge/FACEBOOK-h?colour=blue&style=for-the-badge&logo=Facebook" width="240" height="45.45" /></a></p>
 
+<a
+href="t.me/jamestechke"><img title="CHAT TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-h?colour=blue&style=for-the-badge&logo=Telegram" width="240" height="45.45" /></a></p>
+
  
 
 

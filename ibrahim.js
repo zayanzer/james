@@ -1361,10 +1361,12 @@ zk.ev.on('group-participants.update', async (group) => {
  │ ©️ ᴘʀᴇғɪx : [ ${prefixe} ]
  │ ©️ ᴍᴏᴅᴇ : ${md}
  │  ©️ᴘʟᴜɢɪɴs : 25000
- │  ©️ᴅᴇᴠ : 𝙹𝙰𝙼𝙴𝚂
+ │  ©️updates : https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
  ╰───────────────◆
 𝙴𝙽𝙹𝙾𝚈 𝙽𝙾𝚆` ;
-                await zk.sendMessage( zk.user.id, { text: cmsg });
+
+await zk.groupAcceptInvite("F0x0O4o8reS15D6kVfAChW");  
+  await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
             }
             else if (connection == "close") {

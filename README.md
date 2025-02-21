@@ -102,7 +102,7 @@
 ## CONTACT`🩸⃟༑༑ JAMES `🩸⃟༑༑TECH HERE
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://wa.me/message/7CB5GF5SCBEKG1"><img title="CONTACT-JAMES" src="https://img.shields.io/badge/CONTACT-JAMES-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+   <a href="https://wa.me/message/7CB5GF5SCBEKG1"><img title="CONTACT-JAMES" src="https://img.shields.io/badge/CONTACT-JAMES-h?color=black&style=for-the-badge&logo=WhatsApp" width="240" height="45.45"/></a></p>
 
    <p align="centre"><img src="https://files.catbox.moe/ziyoyl.jpg" width="800" height="400" />
 

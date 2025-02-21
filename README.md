@@ -41,9 +41,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗙𝗢𝗥𝗞🩸⃟+𝗔𝗡𝗗`🩸⃟༑༑+𝗦𝗧𝗔𝗥`🩸⃟༑༑+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  
-<p align="centre"><img src="https://files.catbox.moe/d0gz2m.jpg" width="600" height="200" />
 
-  
    
    <a href="https://github.com/jtechde/james/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=peugeot" width="700" height="50.45"/></a></p>
 
@@ -56,7 +54,7 @@
  
 
 
-  <a href="https://james-xtech-session-generator.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://james-xtech-session-generator.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=Bugatti" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -64,17 +62,13 @@
 
 
  
-  <p align="centre"><img src="https://files.catbox.moe/p2dlg8.jpg" width="400" height="150" />
-  
-
- 
 ## 𝐅𝐎𝐑`🩸⃟༑༑ 𝐎𝐍𝐄-𝐓𝐀𝐏`🩸⃟༑༑ 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 `🩸⃟༑༑𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
-   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+   IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/jtechde/james"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=green&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
@@ -87,7 +81,7 @@
 
 ## FINAL`🩸⃟༑༑ REMARKS `🩸⃟༑༑ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=dark)
+![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=neon)
 
 
 
@@ -107,7 +101,7 @@
 <a
 href="https://www.facebook.com/profile.php?id=61565000497815"><img title="CHAT FACEBOOK" src="https://img.shields.io/badge/FACEBOOK-h?colour=blue&style=for-the-badge&logo=Facebook" width="240" height="45.45" /></a></p>
 
-   <p align="centre"><img src="https://files.catbox.moe/ziyoyl.jpg" width="800" height="400" />
+ 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

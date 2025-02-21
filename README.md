@@ -1,7 +1,7 @@
 ## 𝗪𝗘𝗟𝗖𝗢𝗠E 𝗧𝗢 𝗝𝗔𝗠𝗘𝗦 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑𝗝𝗔𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg)
 
-<p align="centre"><img src="https://files.catbox.moe/7x56tx.jpg" width="800" height="400" />
+<p align="centre"><img src="https://files.catbox.moe/7x56tx.jpg" width="900" height="200" />
 
 
 ## 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗜𝗦 𝗦𝗔𝗙𝗘 𝗢𝗡 𝗛𝗘𝗥𝗢𝗨𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
@@ -35,7 +35,7 @@
  
 
    
-   <a href="https://github.com/jtechde/james/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=peugeot" width="700" height="50.45"/></a></p>
+   <a href="https://github.com/jtechde/james/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=iphone" width="700" height="50.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -70,13 +70,6 @@
 ## FINAL`🩸⃟༑༑ REMARKS `🩸⃟༑༑ON MY REPO (STATS)
 
 ![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=jtechde&repo=james&show_owner=true&theme=neon)
-
-
-
-
-
-
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

@@ -19,8 +19,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=900&height=60&lines=𝗣𝗥𝗢𝗚𝗥𝗘𝗦𝗦`🩸⃟༑༑+𝗙𝗢𝗥+𝗝À𝗠𝗘𝗦`🩸⃟༑༑+𝗠𝗗+𝗕𝗢𝗧+`🩸⃟༑༑)](https://git.io/typing-svg) 
 
 
-<
-
  <p align="center"><img src="https://profile-counter.glitch.me/{JAMES-MD}/count.svg" alt="James :: Visitor's Count" old_src="https://profile-counter.glitch.me/{mustaffa}/count.svg" /></p>
 
 

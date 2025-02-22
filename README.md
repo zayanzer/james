@@ -46,7 +46,7 @@
  
 
 
-  <a href="https://james-xtech-session-generator.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=Bugatti" width="230" height="38.45"/></a></p>
+  <a href="https://jamesmd1.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=Bugatti" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

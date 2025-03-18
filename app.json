@@ -1,5 +1,5 @@
 {
-  "name":"JAMES-MD",
+  "name":"ঔৣ⃕͜🌹Zayan🌹 ⃟༘✪͜͡࿐",
   "description":"Best whatsapp bot created by JAMESTECH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/eg2cgb.jpg",
@@ -22,8 +22,8 @@
          "AUTO_BIO":
     {
       "description":"Enter yes for your bot to auto bio",
-      "value":"no",
-      "required":false
+      "value":"yes",
+      "required":true
     },
   "AUTO_REACT_STATUS":
     {
@@ -47,7 +47,7 @@
     {
       "description":"Enter yes for your bot to auto reply audio in all chats",
       "value":"yes",
-      "required":false
+      "required":true
     },
 	  "AUTO_REPLY":
     {
@@ -59,7 +59,7 @@
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":false
+      "required":true
     }, 
 	  "AUTO_DOWNLOAD_STATUS":
     {
@@ -77,7 +77,7 @@
        "BOT_NAME" : 
     {
     "description":"put A name for your bot",
-    "value":"JAMES_MD",
+    "value":"ঔৣ⃕͜🌹Zayan🌹 ⃟༘✪͜͡࿐",
     "required":false
 
     },
